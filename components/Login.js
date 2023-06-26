@@ -16,13 +16,13 @@ function Login() {
           <label className="ml-8">E-Mail</label>
           <input
             placeholder="Placeholder content"
-            className="ml-8 mb-8 mt-1 placeholder-black appearance-none border border-gray-300 rounded w-full py-2 px-3 placeholder:text-black leading-tight focus:outline-none focus:shadow-outline w-5/6"
+            className="ml-8 mb-8 mt-1 placeholder-black border border-gray-300 rounded py-2 px-3 placeholder:text-black w-5/6"
           />
 
           <label className="ml-8 mt-8">Password</label>
           <input
             placeholder="Placeholder content"
-            className="ml-8 mb-6 mt-1 placeholder-black appearance-none border border-gray-300 rounded w-full py-2 px-3 placeholder:text-black leading-tight focus:outline-none focus:shadow-outline w-5/6"
+            className="ml-8 mb-6 mt-1 placeholder-black border border-gray-300 rounded py-2 px-3 placeholder:text-black w-5/6"
           />
 
           <p className="float-right mr-16 mb-4">Forget password?</p>
